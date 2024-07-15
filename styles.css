@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main .content article {
+    padding: 15px;
+    border-radius: 5px;
+    background: #f4f4f4;
+}
+
+.sidebar {
+    padding: 15px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
